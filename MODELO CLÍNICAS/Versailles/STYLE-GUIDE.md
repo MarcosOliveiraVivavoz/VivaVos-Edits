@@ -78,7 +78,7 @@ Sistema de tipografia mista — é a assinatura da marca (quadros 01, 05, 10, 12
 
 ## 7. Áudio
 
-⚠️ Ainda não analisado (sem transcrição dos vídeos de referência). Até definir: voz limpa em primeiro plano, sem cortar respiração no meio de palavra, música opcional bem baixa (−20 a −24 dB sob a voz).
+Alvo de loudness: **-16 LUFS integrado, true peak -1.5 dBTP, LRA 11** — mesmo padrão já usado no Desilenciar (`loudnorm=I=-16:TP=-1.5:LRA=11`). Calibrado medindo `Versailles Vídeo 1` (editado aprovado): -16.03 LUFS, bate quase exato. ⚠️ `IMG_0652.MOV` (outra referência recebida) mediu -26.86 LUFS — bem fora do padrão; tratado como outlier (provável prévia sem masterização final) até o cliente confirmar. Voz limpa em primeiro plano, sem cortar respiração no meio de palavra, música opcional bem baixa (−20 a −24 dB sob a voz).
 
 ## 8. Anti-lista
 
