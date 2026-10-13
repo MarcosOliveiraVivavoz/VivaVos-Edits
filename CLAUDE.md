@@ -46,6 +46,7 @@ Cada etapa é um comando que roda o agente dela isolado (contexto próprio, mode
 | `/v1-transcrever` | transcritor (haiku) | transcrição + takes_packed.md (reaproveita cache) | não |
 | `/v2-roteiro` | roteirista (sonnet) | plano de trechos seguindo o roteiro, sem grafismos | **sim** |
 | `/v3-corte` | cortador (sonnet) | cortes, limpeza de erros, recorte 9:16 → `corte.mp4` | **sim** (assista) |
+| `/v3b-audio` | engenheiro-de-audio (sonnet) | limpa ruído e calibra loudness do corte contra o alvo do STYLE-GUIDE | sim |
 | `/v4-cor` | colorista (sonnet) | cor → `corte_cor.mp4` | sim |
 | `/v5-titulos` | tipografo (sonnet) | títulos e palavras-chave | sim |
 | `/v6-grafismos` | grafismos (sonnet) | selo, pergunta, antes/depois, CTA, transições | sim |
@@ -71,6 +72,7 @@ Ao receber "edita o vídeo X do cliente Y", leia o `roteiro.md` e o `fontes.md` 
 | 1 | Inventário e transcrição | (video-use direto) | `edit/takes_packed.md` | — |
 | 2 | Roteiro e plano de cenas | `roteirista` | `edit/plano.md` | **Aprovação do usuário** |
 | 3 | Cortes | `cortador` | `edit/edl.json` (ranges) | — |
+| 3.5 | Áudio (ruído + loudness) | `engenheiro-de-audio` | `edit/verify/audio.md` | — |
 | 4 | Cor | `colorista` | campo `grade` do EDL | — |
 | 5 | Títulos e palavras-chave | `tipografo` | `edit/animations/slot_*` | — |
 | 6 | Grafismos (antes/depois, pergunta, selo, marcação, CTA, transições) | `grafismos` | `edit/animations/slot_*` | — |

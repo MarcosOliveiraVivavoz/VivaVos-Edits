@@ -15,6 +15,7 @@
 __pycache__/
 *.pyc
 node_modules/
+*.egg-info/
 
 # skill instalada localmente (tem .git e .env próprios; instalar com ativar.sh)
 .claude/skills/
