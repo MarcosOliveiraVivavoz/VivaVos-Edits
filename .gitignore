@@ -1,0 +1,20 @@
+# vídeos e renders
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+**/edit/
+# segredos
+.env
+# sistema
+.DS_Store
+
+# ambientes e caches
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+
+# skill instalada localmente (tem .git e .env próprios; instalar com ativar.sh)
+.claude/skills/

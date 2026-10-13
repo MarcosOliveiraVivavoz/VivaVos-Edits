@@ -1,0 +1,208 @@
+{
+ "fonte": "IMG_0645.mov",
+ "versao": "v2 (prévia revisada)",
+ "duracao_bruto": 357.003,
+ "duracao_final": 254.564,
+ "segmentos": [
+  {
+   "in": 11.375,
+   "out": 12.07,
+   "motivo": "início do vídeo"
+  },
+  {
+   "in": 12.15,
+   "out": 15.21,
+   "motivo": "após corte: gagueira \"um, um\" (tem um, um podcast)"
+  },
+  {
+   "in": 15.415,
+   "out": 30.26,
+   "motivo": "após corte: gagueira \"um, um\" (mais um, um profissional)"
+  },
+  {
+   "in": 48.015,
+   "out": 60.93,
+   "motivo": "após corte: conversa fora do vídeo (\"Pode filmar direto… Tá gravando. Pode ir. Legal.\") + gagueira \"E, e,\""
+  },
+  {
+   "in": 61.35,
+   "out": 68.645,
+   "motivo": "após corte: gagueira dentro da palavra (\"In-\" de \"inclusive\")"
+  },
+  {
+   "in": 75.885,
+   "out": 84.6,
+   "motivo": "após corte: fala fora do vídeo (\"E, deixa eu ver aqui, autoridade não.\"); hesitação \"É,\""
+  },
+  {
+   "in": 86.82,
+   "out": 89.41,
+   "motivo": "após corte: abandonado \"Aí duas,\""
+  },
+  {
+   "in": 96.435,
+   "out": 110.075,
+   "motivo": "após corte: retake: 1ª tomada de \"Um post no feed dá três segundos…\" (fica a 2ª, completa)"
+  },
+  {
+   "in": 110.39,
+   "out": 113.99,
+   "motivo": "após corte: \"na,\" abandonado"
+  },
+  {
+   "in": 116.885,
+   "out": 132.185,
+   "motivo": "após corte: começo abandonado \"e eu--\"; começo abandonado \"sem contar que hoje a gente tava até vendo, né, Aline, um,\" (fica a 2ª tomada)"
+  },
+  {
+   "in": 133.97,
+   "out": 137.055,
+   "motivo": "após corte: abandonado \"é, a gente jo--\""
+  },
+  {
+   "in": 139.79,
+   "out": 141.67,
+   "motivo": "após corte: repetição: \"ele tem essa, essa característica, né? De você,\" (fica \"ele tem essa característica de você ser uma conversa\")"
+  },
+  {
+   "in": 143.985,
+   "out": 146.33,
+   "motivo": "após corte: hesitação \"você\" arrastado (fica \"característica de ser uma conversa\")"
+  },
+  {
+   "in": 148.395,
+   "out": 157.965,
+   "motivo": "após corte: abandonado \"A pessoa participa do epi--\""
+  },
+  {
+   "in": 158.495,
+   "out": 162.105,
+   "motivo": "pausa de 0.78s reduzida para ~0,25s"
+  },
+  {
+   "in": 164.695,
+   "out": 172.575,
+   "motivo": "pausa de 2.84s reduzida para ~0,25s"
+  },
+  {
+   "in": 172.975,
+   "out": 191.76,
+   "motivo": "após corte: repetição \"cê faz, cê faz\""
+  },
+  {
+   "in": 192.83,
+   "out": 203.5,
+   "motivo": "após corte: falso começo \"que vai,\""
+  },
+  {
+   "in": 207.03,
+   "out": 211.105,
+   "motivo": "após corte: abandonado \"ele vai, é,\""
+  },
+  {
+   "in": 211.855,
+   "out": 217.21,
+   "motivo": "pausa de 1.00s reduzida para ~0,25s"
+  },
+  {
+   "in": 217.805,
+   "out": 218.605,
+   "motivo": "após corte: abandonado \"algum co--\""
+  },
+  {
+   "in": 220.09,
+   "out": 222.29,
+   "motivo": "após corte: hesitação \"alguma, algum,\""
+  },
+  {
+   "in": 226.56,
+   "out": 234.59,
+   "motivo": "após corte: abandonado \"Agora, só, só.\""
+  },
+  {
+   "in": 235.155,
+   "out": 240.725,
+   "motivo": "após corte: hesitação \"essa,\""
+  },
+  {
+   "in": 241.265,
+   "out": 242.905,
+   "motivo": "após corte: hesitação \"Com um,\""
+  },
+  {
+   "in": 243.275,
+   "out": 248.125,
+   "motivo": "após corte: gagueira \"pluga, pluga\""
+  },
+  {
+   "in": 249.23,
+   "out": 251.85,
+   "motivo": "após corte: gagueira \"e, e\""
+  },
+  {
+   "in": 252.85,
+   "out": 256.725,
+   "motivo": "após corte: palavra trocada: \"esse novo, com\" → \"essa novidade\""
+  },
+  {
+   "in": 257.214,
+   "out": 278.13,
+   "motivo": "pausa de 0.74s reduzida para ~0,25s"
+  },
+  {
+   "in": 278.685,
+   "out": 281.29,
+   "motivo": "após corte: gagueira \"nesse, nessa\""
+  },
+  {
+   "in": 281.56,
+   "out": 284.98,
+   "motivo": "após corte: abandonado \"as le-- a\""
+  },
+  {
+   "in": 295.03,
+   "out": 300.915,
+   "motivo": "após corte: \"ou seja, é, é mais fácil\" + conversa fora do vídeo (água / \"o tio tá com pressa\" / \"pode\")"
+  },
+  {
+   "in": 302.035,
+   "out": 302.59,
+   "motivo": "após corte: gagueira \"e, e\""
+  },
+  {
+   "in": 303.79,
+   "out": 304.655,
+   "motivo": "após corte: repetição \"onde, onde a gente tava olhando,\" (fica \"onde a gente investiu\")"
+  },
+  {
+   "in": 312.135,
+   "out": 313.075,
+   "motivo": "após corte: fala fora do vídeo (\"Vamo continuando aqui… Vamos jogar futebol? Já viu que faz barulho?\")"
+  },
+  {
+   "in": 313.54,
+   "out": 328.42,
+   "motivo": "após corte: gagueira \"uma, uma\""
+  },
+  {
+   "in": 329.35,
+   "out": 336.63,
+   "motivo": "após corte: hesitação \"é,\""
+  },
+  {
+   "in": 337.93,
+   "out": 339.67,
+   "motivo": "após corte: falso começo \"de uma forma mais, de uma,\""
+  },
+  {
+   "in": 340.225,
+   "out": 348.21,
+   "motivo": "após corte: hesitação \"é,\""
+  },
+  {
+   "in": 349.005,
+   "out": 357.003,
+   "motivo": "após corte: abandonado \"Se você,\""
+  }
+ ]
+}
