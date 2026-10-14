@@ -19,3 +19,6 @@ node_modules/
 
 # skill instalada localmente (tem .git e .env próprios; instalar com ativar.sh)
 .claude/skills/
+
+# pacotes compactados
+*.zip
